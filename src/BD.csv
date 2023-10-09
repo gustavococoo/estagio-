@@ -1,0 +1,15 @@
+idusuarios,nome,email,telefone,sexo,data_nascimento,senha
+1,Gustavo,gustavo@gmail.com,98655,masculino,2023-10-25,
+2,Luiz,luiz@gmail.com,65985,masculino,2001-07-12,
+3,Joao,joao@gmail.com,55995,masculino,2023-10-24,
+4,Joao,joao@gmail.com,55995,masculino,2023-10-24,
+5,Claudene,clau@gmail.com,986526,feminino,2004-02-16,123
+6,Mc,mc@gmail.com,1111,feminino,2006-04-20,321
+7,teste,teste@gmail.com,000,masculino,2023-10-12,teste123
+8,teste1,teste1@gmail.com,123,masculino,2023-09-24,teste
+9,NN,NN@gmail.com,11,feminino,2023-10-18,nn
+10,aaa,aaa@gmail.com,222,outro,2023-10-15,aaa
+11,bb,bb@gmail.com,bb,masculino,2023-09-29,$2y$10$lxPQoFitBPDN0DiOcnIHmOfuVMVTqBYrjHc3HL
+12,tt,tt@gmail.com,tt,feminino,2023-10-30,$2y$10$kls2x7GgC9D7NgdoryTYMOQwisTRP.ANDD9lfo
+13,ww,ww@gmail.com,1w,feminino,1999-02-15,$2y$10$FzXuT17AX38oGlIuwjgVT.hbYNju8ZoucnqmbH
+14,admin,admin@gmail.com,2,masculino,2023-10-08,$2y$10$JPgzrx7GMZJK8GLVk.cFou9P6NaVdmBfUzc7wx
